@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_ba51ef002afe9b57681ce4c209c3d4dd8ad8ca2f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_0735a779db6a75d3af28525c52f6f223d46d0d22\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harshad Kothari\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_3e0cea652e6cca8e541815ad9d03933b3554a4b7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_b860045162a9bf0d5cc8046ec295dcdd5ef1518e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_0cd0b518187e1e92d1ba50c4b4ba28468bb84bf4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_b52ef488ba9e83d1a7ff30dd648302cc74692181\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_51bac1617f44d45b54fca873f31689c5cbb9ade4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="591bea1db21c87a5f7530d78b97fa5ea607e413a">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e5ecd90426d8c8b68c8e6e263f6d942770d1d39d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_3f64045395f61867cc7bf3588faf48758ceb422d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_c34661372358acdd76154eeb3e84d50ae5be467c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e0621eb4433e787ad78d102c2674bd6b0a2d4de4">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_34e767434ae38031e52f4e13c408ba81c3cc6cf7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Harshad Kothari\AndroidStudioProjects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_2e0b63830af79d48c81b793f7cf7cda9b29ff70e\classes.dex" />
+    </item>
+
+</items>
